@@ -174,7 +174,7 @@ Wenn du nach dem `git fetch` den pull Befehl ausführst, wird Git die neuen Comm
 
 <br>
 
-## Git log Änderungen anzeigen**
+## Git log Änderungen anzeigen
 
 --> git lg -p
 
